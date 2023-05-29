@@ -1,2 +1,2 @@
 # readme
-#### simple nodejs backend ci/cd with jenkins
+#### simple reactjs frontend ci/cd with jenkins
