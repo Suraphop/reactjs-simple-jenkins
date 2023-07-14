@@ -4,7 +4,7 @@ echo "***************************"
 echo "** deploy to production v.1.0.0***"
 echo "***************************"
 
-IMAGE="machine-data-project"
+IMAGE="reactjs-project"
 
 sshpass -p '1234' ssh -o StrictHostKeyChecking=no production@192.168.100.110 << ENDSSH
     docker login -u suraphop -p $PASS
