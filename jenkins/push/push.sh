@@ -4,7 +4,7 @@ echo "********************"
 echo "** Pushing image ***"
 echo "********************"
 
-IMAGE="machine-data-project"
+IMAGE="reactjs-project"
 
 echo "** Logging in ***"
 docker login -u suraphop -p $PASS
